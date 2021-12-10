@@ -8,6 +8,9 @@ jobs:
     steps:
       - name: print hello GitHub Actions
         run: echo "hello GitHub Actions"
+      - name: checkout the project
+        uses: actions/checkout@v2
+        
 
 
 
