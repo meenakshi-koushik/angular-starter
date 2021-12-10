@@ -1,6 +1,20 @@
 # Angular 13 Example Starter
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/meenakshi-koushik/angular-starter)
 
+This is the work-in-progress repo used by group 02 in the GH Actions learning session:
+* Philipp
+* Sanjit
+* Marietta
+* Meenakshi
+* Kathi
+* M-Th
+
+Thanks for the contributions!
+
+Click [here](https://github.com/ganatan/angular-starter/compare/681e47dde97b60b120ff8efdb7c9a7e445ac8d49...meenakshi-koushik:master) to get an overview of the steps.
+
+Original project README follows:
+
 <table>
 <tr>
 <td>
