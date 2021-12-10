@@ -10,7 +10,11 @@ jobs:
         run: echo "hello GitHub Actions"
       - name: checkout the project
         uses: actions/checkout@v2
-        
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14.x
+
 
 
 
