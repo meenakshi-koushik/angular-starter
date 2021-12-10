@@ -7,7 +7,7 @@ jobs:
 
     steps:
       - name: print hello GitHub Actions
-      - run: echo "hello GitHub Actions"
+        run: echo "hello GitHub Actions"
 
 
 
